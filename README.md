@@ -12,6 +12,10 @@ Flutter 列表类型日期选择器
 
 如发现bug请提出来，或者是新的需求(时间允许的情况下，会斟酌更新)  ，希望能够给各位小伙伴带来一定的便利，如果对您有用还请手下留星，感激不尽！
 
+## 预览参考
+功能几乎和h5的一致，唯一区别就是标题做了吸顶。
+[地址](https://dreamicalwestswim.github.io/vue3-calendar/demo)
+
 ## 安装
 
 Terminal:
