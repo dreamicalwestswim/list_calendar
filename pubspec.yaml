@@ -1,6 +1,6 @@
 name: list_calendar
 description: 列表类型的日历选择器
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/dreamicalwestswim/list_calendar
 
 environment:
